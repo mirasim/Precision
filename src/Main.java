@@ -4,5 +4,6 @@ public class Main {
         double specialBonus = 0.6;
         double totalBonus = regularBonus + specialBonus;
         System.out.println(totalBonus);
+
     }
 }
