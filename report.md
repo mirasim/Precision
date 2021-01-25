@@ -18,7 +18,7 @@
 ## Результаты
 
 1. Провели единственый тест и он не успешный.
-2. https://github.com/mirasim/Precision/issues/1
+2. [Ошибка вычисления бонуса ](https://github.com/mirasim/Precision/issues/1)
 
 ## Общие рекомендации
 
